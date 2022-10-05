@@ -1,5 +1,6 @@
 import tkinter as tk
 
+#This is the callback to be able to work with the variables
 def callback(selection):
     global calculations
     calculations = selection
